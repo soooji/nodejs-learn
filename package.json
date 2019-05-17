@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/soooji/nodejs-learn/issues"
   },
-  "homepage": "https://github.com/soooji/nodejs-learn#readme"
+  "homepage": "https://github.com/soooji/nodejs-learn#readme",
+  "dependencies": {
+    "formidable": "^1.2.1"
+  }
 }
